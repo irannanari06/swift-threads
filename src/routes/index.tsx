@@ -67,7 +67,6 @@ const features = [
   },
 ];
 
-export default function Index() {}
 function Index() {
   return (
     <div className="relative">
